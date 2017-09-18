@@ -58,6 +58,8 @@ done
 # - move all the downloaded csv files into the data folder
 #YOUR-CODE data/
 
+#!! adding a new line of comments in order to merge changes
+
 # 5. Compress the folder "data" using tar command and save it in the same folder with the name "data.tar.gz"
 #YOUR-CODE data/ 
 
